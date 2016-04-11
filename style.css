@@ -22,6 +22,15 @@ ul {
 
 a {
     display: inline;
+    background-color: #FBF0BE;
+    font-family: sans-serif;
+    color: black;
+}
+
+body {
+    background-color: #B7D1BF;
+    font-family: sans-serif;
+    color: black;
 }
 
 #header li {
