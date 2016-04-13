@@ -16,45 +16,49 @@ ul {
     position:absolute;
     bottom:30px;
     width:100%;
-    background-color: #5FAF74;
+    background-color: #D4A495;
     
 }
 
 a {
     display: inline;
-    background-color: #FBF0BE;
     font-family: sans-serif;
     color: black;
 }
 
 body {
-    background-color: #B7D1BF;
+    background-color: #FFFFFF;
     font-family: sans-serif;
-    color: black;
+    
 }
 
-#header li {
+#zgLinki li {
     float: left;
     padding: 10px;
+    
+    
 }
-/*
-#logo {
-    display: block;
-    margin: 0 auto;
-}*/
 
-img {
-    display: block;
+#header {
+    position:absolute;
+    top:5%;
+    width:100%;
+    background-color: #FFC1AD;
+}
+
+#logo {
     margin-left: auto;
     margin-right: auto; 
     padding: 2em;
+    width: 36%;
 }
 
 #Iskalnik {
-    display: block;
     margin-left: auto;
     margin-right: auto;
     padding: 5em;
+    width: 25%;
+    text-align: center;
 }
 
 
